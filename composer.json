@@ -1,6 +1,12 @@
 {
-    "name": "vladz/guess-number",
-    "description": "guess-number",
+    "name": "zhivaevvd/guess-number",
+    "type": "project",
+    "authors": [
+        {
+            "name": "VladZhivaev",
+            "email": "vlad.zhivaev45@gmail.com"
+        }
+    ],
     "require": {
         "wp-cli/php-cli-tools": "^0.11.13"
     },
