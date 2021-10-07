@@ -52,4 +52,4 @@
 
 ## Ссылки
 
-Packagist: <>
+Packagist: https://packagist.org/packages/zhivaevvd/guess-number
