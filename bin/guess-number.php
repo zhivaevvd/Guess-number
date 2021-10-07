@@ -8,7 +8,7 @@
         require_once($autoloadPathForPackagist);
     }
 
-    use function zhivaevvd\guessNumber\Controller\startGame;
+    use function zhivaevvd\guessNumber\Controller\func;
 
-    startGame();
+    func();
 ?>
